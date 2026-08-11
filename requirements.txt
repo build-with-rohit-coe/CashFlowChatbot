@@ -1,0 +1,8 @@
+pandas>=2.2
+openpyxl>=3.1
+python-dotenv>=1.0
+requests>=2.32
+msal>=1.31
+tabulate>=0.9
+streamlit>=1.38
+google-genai>=1.0        # only needed for the Gemini backend
